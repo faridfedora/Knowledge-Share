@@ -1,0 +1,39 @@
+<ion-view   view-title={{knowledge.subject}}>
+  <ion-content >
+
+
+
+
+      <div class="card" dir="auto">
+          <div class="item item-divider">
+              score: {{knowledge.score}}
+          </div>
+          <div class="item item-text-wrap" dir="rtl">
+              {{knowledge.text}}
+          </div>
+          <div class="item item-divider">
+              <h4>{{knowledge.tag}}</h4>
+          </div>
+      </div>
+      
+     
+  </ion-content>
+    <!-- align to the bottom of the page -->
+    <div style="position: absolute; bottom: 0px; width: 100%">
+        <div style="text-align: center">
+            <div class="row">
+                <div class="col col-30">
+                    <button class="button icon ion-thumbsdown"></button>
+                </div>
+                <div class="col col-30">
+                    
+                </div>
+                <div class="col col-30">
+                    <button class="button icon ion-thumbsup"></button>
+                </div>
+
+            </div>
+             
+        </div>
+    </div>
+</ion-view>

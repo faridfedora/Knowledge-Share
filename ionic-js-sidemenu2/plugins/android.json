@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "io.cordova.myapp2b672c"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "io.cordova.myapp2b672c"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.myapp2b672c"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.cordova.myapp2b672c"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.cordova.myapp2b672c"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "io.cordova.myapp2b672c"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "io.cordova.myapp2b672c"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ir.faridheydari.ks"
+        }
+    },
+    "dependent_plugins": {}
+}
